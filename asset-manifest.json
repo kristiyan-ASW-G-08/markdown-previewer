@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/markdown-previewer/static/css/main.d9a566b9.chunk.css",
+    "main.js": "/markdown-previewer/static/js/main.c03c5792.chunk.js",
+    "main.js.map": "/markdown-previewer/static/js/main.c03c5792.chunk.js.map",
+    "runtime~main.js": "/markdown-previewer/static/js/runtime~main.2b49566a.js",
+    "runtime~main.js.map": "/markdown-previewer/static/js/runtime~main.2b49566a.js.map",
+    "static/css/2.1c7ffa40.chunk.css": "/markdown-previewer/static/css/2.1c7ffa40.chunk.css",
+    "static/js/2.c23c5b2e.chunk.js": "/markdown-previewer/static/js/2.c23c5b2e.chunk.js",
+    "static/js/2.c23c5b2e.chunk.js.map": "/markdown-previewer/static/js/2.c23c5b2e.chunk.js.map",
+    "index.html": "/markdown-previewer/index.html",
+    "precache-manifest.20670dd76a1aa6d3b07032c84fa82982.js": "/markdown-previewer/precache-manifest.20670dd76a1aa6d3b07032c84fa82982.js",
+    "service-worker.js": "/markdown-previewer/service-worker.js",
+    "static/css/2.1c7ffa40.chunk.css.map": "/markdown-previewer/static/css/2.1c7ffa40.chunk.css.map",
+    "static/css/main.d9a566b9.chunk.css.map": "/markdown-previewer/static/css/main.d9a566b9.chunk.css.map"
+  }
+}
